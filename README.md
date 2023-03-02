@@ -1,10 +1,10 @@
-- 👋 Hello!, Me llamo Francisco José Parejo
-- 👀 Soy Game Developer && Unity Developer 
-- 🌱 Actualmente estoy formándome en desarrollo de videojuegos, tanto en Unity como Unreal Engine
-- 📋📌 Aquí podrás encontrar todos mis proyectos como **[GameDeveloper](https://frandevgame.itch.io/)**
-- 📫 Puedes contactarme en **(fcoparjim@outlook.es)**
+- 👋 Hello!, mi name is Francisco José Parejo
+- 👀 I´m Game Developer with Unity 
+- 🌱 I´m working with Unity Engine on VideoGames projects, such freelance as personal projects. 
+- 📋📌 Here you will can found my portfolio **[GameDeveloper](https://saintsgamesstudios.itch.io/))**
+- 📫 Contact me here **(fcoparjim@outlook.es)**
 
 
-- 🚀  **[Linkedln](https://www.linkedin.com/in/francisco-jose-parejo-jimenez-46aab5228/)**
+- 🚀  **[Linkedln](https://www.linkedin.com/in/franciscoparjim/)**
 
 
